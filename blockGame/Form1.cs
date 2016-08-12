@@ -25,7 +25,7 @@ namespace blockGame
             //产生所有按钮
             GenerateAllButtons();
         }
-        //测试
+        //测试a 
         private void button1_Click(object sender, EventArgs e)
         {
             //打乱顺序
